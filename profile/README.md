@@ -1,2 +1,2 @@
 # .github
-Special repository for the organization's GitHub profile
+Special repository for the organization's profile overview
