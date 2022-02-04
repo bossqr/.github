@@ -1,2 +1,4 @@
 # BOSS QR CODE - THE NEXT GENERATION QR CODE GENERATOR
-Special repository for the organization's profile overview
+Have a unique and incomparable digital experience, and rewrite the rules of the game with the **New Generation Boss Qr Code Generator**, which has the feature of creating free digital Business Cards and being the best Android and IOS Qr code reader.
+
+Analyze customer insights, open the doors of digital marketing with digital catalogs, receive instant notifications and generate actions with Hot Alerts.
